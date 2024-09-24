@@ -1,0 +1,454 @@
+{
+  "1": {
+    "type": "SpawnUnit",
+    "time": "13",
+    "money": "600",
+    "cframe": "-86.0703506, 4.79068899, -57.3464851, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "Yoo Jinho"
+  },
+  "2": {
+    "type": "SpawnUnit",
+    "time": "28",
+    "money": "778",
+    "cframe": "-66.3448486, 4.79066324, -49.1392326, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "RengokuEvo"
+  },
+  "3": {
+    "type": "UpgradeUnit",
+    "time": "45",
+    "money": "1250",
+    "cframe": "-66.3448486, 4.79066324, -49.1392326, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "RengokuEvo"
+  },
+  "4": {
+    "type": "UpgradeUnit",
+    "time": "58",
+    "money": "1500",
+    "cframe": "-86.0703506, 4.79068899, -57.3464851, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "Yoo Jinho"
+  },
+  "5": {
+    "type": "UpgradeUnit",
+    "time": "72",
+    "money": "2500",
+    "cframe": "-66.3448486, 4.79066324, -49.1392326, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "RengokuEvo"
+  },
+  "6": {
+    "type": "UpgradeUnit",
+    "time": "78",
+    "money": "2540",
+    "cframe": "-86.0703506, 4.79068899, -57.3464851, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "Yoo Jinho"
+  },
+  "7": {
+    "type": "SpawnUnit",
+    "time": "96",
+    "money": "3750",
+    "cframe": "-25.743124, 4.79106569, -160.207047, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "EscanorGodly"
+  },
+  "8": {
+    "type": "SpawnUnit",
+    "time": "112",
+    "money": "800",
+    "cframe": "-24.0816841, 4.79106617, -34.9187698, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "Kafka Transformed"
+  },
+  "9": {
+    "type": "SellUnit",
+    "cframe": "-66.3448486, 4.79066324, -49.1392326, -0.709507823, 0, 0.704697609, 0, 1, 0, -0.704697609, 0, -0.709507823",
+    "time": "124",
+    "unit": "RengokuEvo"
+  },
+  "10": {
+    "type": "SpawnUnit",
+    "time": "128",
+    "money": "650",
+    "cframe": "-24.3044891, 4.79056072, -53.5107841, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "RengokuEvo"
+  },
+  "11": {
+    "type": "UpgradeUnit",
+    "time": "130",
+    "money": "1250",
+    "cframe": "-24.3044891, 4.79056072, -53.5107841, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "RengokuEvo"
+  },
+  "12": {
+    "type": "UpgradeUnit",
+    "time": "130",
+    "money": "2500",
+    "cframe": "-24.3044891, 4.79056072, -53.5107841, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "RengokuEvo"
+  },
+  "13": {
+    "type": "UpgradeUnit",
+    "time": "137",
+    "money": "4000",
+    "cframe": "-24.3044891, 4.79056072, -53.5107841, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "RengokuEvo"
+  },
+  "14": {
+    "type": "UpgradeUnit",
+    "time": "146",
+    "money": "3202",
+    "cframe": "-86.0703506, 4.79068899, -57.3464851, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "Yoo Jinho"
+  },
+  "15": {
+    "type": "UpgradeUnit",
+    "time": "161",
+    "money": "5700",
+    "cframe": "-24.3044891, 4.79056072, -53.5107841, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "RengokuEvo"
+  },
+  "16": {
+    "type": "UpgradeUnit",
+    "time": "179",
+    "money": "4080",
+    "cframe": "-86.0703506, 4.79068899, -57.3464851, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "Yoo Jinho"
+  },
+  "17": {
+    "type": "UpgradeUnit",
+    "time": "188",
+    "money": "4250",
+    "cframe": "-25.743124, 4.79106569, -160.207047, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "EscanorGodly"
+  },
+  "18": {
+    "type": "UpgradeUnit",
+    "time": "191",
+    "money": "5750",
+    "cframe": "-25.743124, 4.79106569, -160.207047, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "EscanorGodly"
+  },
+  "19": {
+    "type": "UpgradeUnit",
+    "time": "205",
+    "money": "7000",
+    "cframe": "-25.743124, 4.79106569, -160.207047, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "EscanorGodly"
+  },
+  "20": {
+    "type": "UpgradeUnit",
+    "time": "212",
+    "money": "7300",
+    "cframe": "-24.3044891, 4.79056072, -53.5107841, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "RengokuEvo"
+  },
+  "21": {
+    "type": "UpgradeUnit",
+    "time": "221",
+    "money": "8700",
+    "cframe": "-24.3044891, 4.79056072, -53.5107841, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "RengokuEvo"
+  },
+  "22": {
+    "type": "UpgradeUnit",
+    "time": "229",
+    "money": "5210",
+    "cframe": "-86.0703506, 4.79068899, -57.3464851, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "Yoo Jinho"
+  },
+  "23": {
+    "type": "UpgradeUnit",
+    "time": "240",
+    "money": "8200",
+    "cframe": "-86.0703506, 4.79068899, -57.3464851, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "Yoo Jinho"
+  },
+  "24": {
+    "type": "UpgradeUnit",
+    "time": "252",
+    "money": "14500",
+    "cframe": "-86.0703506, 4.79068899, -57.3464851, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "Yoo Jinho"
+  },
+  "25": {
+    "type": "UpgradeUnit",
+    "time": "268",
+    "money": "20150",
+    "cframe": "-86.0703506, 4.79068899, -57.3464851, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "Yoo Jinho"
+  },
+  "26": {
+    "type": "SpawnUnit",
+    "time": "276",
+    "money": "2250",
+    "cframe": "-27.2907619, 4.74491787, -136.78067, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "Itachi Edo"
+  },
+  "27": {
+    "type": "SpawnUnit",
+    "time": "284",
+    "money": "850",
+    "cframe": "-26.476965, 4.79016161, -178.729919, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "Kira"
+  },
+  "28": {
+    "type": "UpgradeUnit",
+    "time": "286",
+    "money": "1350",
+    "cframe": "-26.476965, 4.79016161, -178.729919, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "Kira"
+  },
+  "29": {
+    "type": "UpgradeUnit",
+    "time": "287",
+    "money": "1900",
+    "cframe": "-26.476965, 4.79016161, -178.729919, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "Kira"
+  },
+  "30": {
+    "type": "UpgradeUnit",
+    "time": "287",
+    "money": "2400",
+    "cframe": "-26.476965, 4.79016161, -178.729919, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "Kira"
+  },
+  "31": {
+    "type": "UpgradeUnit",
+    "time": "288",
+    "money": "4500",
+    "cframe": "-26.476965, 4.79016161, -178.729919, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "Kira"
+  },
+  "32": {
+    "type": "UpgradeUnit",
+    "time": "288",
+    "money": "5750",
+    "cframe": "-26.476965, 4.79016161, -178.729919, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "Kira"
+  },
+  "33": {
+    "type": "UpgradeUnit",
+    "time": "290",
+    "money": "7750",
+    "cframe": "-26.476965, 4.79016161, -178.729919, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "Kira"
+  },
+  "34": {
+    "type": "UpgradeUnit",
+    "time": "291",
+    "money": "10500",
+    "cframe": "-26.476965, 4.79016161, -178.729919, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "Kira"
+  },
+  "35": {
+    "type": "UpgradeUnit",
+    "time": "291",
+    "money": "12750",
+    "cframe": "-26.476965, 4.79016161, -178.729919, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "Kira"
+  },
+  "36": {
+    "type": "UpgradeUnit",
+    "time": "297",
+    "money": "8500",
+    "cframe": "-25.743124, 4.79106569, -160.207047, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "EscanorGodly"
+  },
+  "37": {
+    "type": "UpgradeUnit",
+    "time": "297",
+    "money": "10000",
+    "cframe": "-25.743124, 4.79106569, -160.207047, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "EscanorGodly"
+  },
+  "38": {
+    "type": "UpgradeUnit",
+    "time": "298",
+    "money": "12500",
+    "cframe": "-25.743124, 4.79106569, -160.207047, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "EscanorGodly"
+  },
+  "39": {
+    "type": "UpgradeUnit",
+    "time": "298",
+    "money": "15000",
+    "cframe": "-25.743124, 4.79106569, -160.207047, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "EscanorGodly"
+  },
+  "40": {
+    "type": "UpgradeUnit",
+    "time": "299",
+    "money": "25000",
+    "cframe": "-25.743124, 4.79106569, -160.207047, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "EscanorGodly"
+  },
+  "41": {
+    "type": "UpgradeUnit",
+    "time": "306",
+    "money": "55000",
+    "cframe": "-25.743124, 4.79106569, -160.207047, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "EscanorGodly"
+  },
+  "42": {
+    "type": "UpgradeUnit",
+    "time": "315",
+    "money": "75000",
+    "cframe": "-25.743124, 4.79106569, -160.207047, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "EscanorGodly"
+  },
+  "43": {
+    "type": "UpgradeUnit",
+    "time": "329",
+    "money": "100000",
+    "cframe": "-25.743124, 4.79106569, -160.207047, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "EscanorGodly"
+  },
+  "44": {
+    "type": "UpgradeUnit",
+    "time": "333",
+    "money": "3500",
+    "cframe": "-27.2907619, 4.74491787, -136.78067, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "Itachi Edo"
+  },
+  "45": {
+    "type": "UpgradeUnit",
+    "time": "333",
+    "money": "4500",
+    "cframe": "-27.2907619, 4.74491787, -136.78067, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "Itachi Edo"
+  },
+  "46": {
+    "type": "UpgradeUnit",
+    "time": "334",
+    "money": "6000",
+    "cframe": "-27.2907619, 4.74491787, -136.78067, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "Itachi Edo"
+  },
+  "47": {
+    "type": "UpgradeUnit",
+    "time": "334",
+    "money": "8000",
+    "cframe": "-27.2907619, 4.74491787, -136.78067, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "Itachi Edo"
+  },
+  "48": {
+    "type": "UpgradeUnit",
+    "time": "335",
+    "money": "800",
+    "cframe": "-27.2907619, 4.74491787, -136.78067, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "Itachi Edo"
+  },
+  "49": {
+    "type": "UpgradeUnit",
+    "time": "335",
+    "money": "800",
+    "cframe": "-27.2907619, 4.74491787, -136.78067, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "Itachi Edo"
+  },
+  "50": {
+    "type": "UpgradeUnit",
+    "time": "336",
+    "money": "800",
+    "cframe": "-27.2907619, 4.74491787, -136.78067, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "Itachi Edo"
+  },
+  "51": {
+    "type": "UpgradeUnit",
+    "time": "342",
+    "money": "45000",
+    "cframe": "-27.2907619, 4.74491787, -136.78067, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "Itachi Edo"
+  },
+  "52": {
+    "type": "UpgradeUnit",
+    "time": "344",
+    "money": "55000",
+    "cframe": "-27.2907619, 4.74491787, -136.78067, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "Itachi Edo"
+  },
+  "53": {
+    "type": "UpgradeUnit",
+    "time": "357",
+    "money": "11800",
+    "cframe": "-24.3044891, 4.79056072, -53.5107841, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "RengokuEvo"
+  },
+  "54": {
+    "type": "UpgradeUnit",
+    "time": "359",
+    "money": "15000",
+    "cframe": "-24.3044891, 4.79056072, -53.5107841, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "RengokuEvo"
+  },
+  "55": {
+    "type": "UpgradeUnit",
+    "time": "364",
+    "money": "1200",
+    "cframe": "-24.0816841, 4.79106617, -34.9187698, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "Kafka Transformed"
+  },
+  "56": {
+    "type": "UpgradeUnit",
+    "time": "364",
+    "money": "2400",
+    "cframe": "-24.0816841, 4.79106617, -34.9187698, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "Kafka Transformed"
+  },
+  "57": {
+    "type": "UpgradeUnit",
+    "time": "365",
+    "money": "4000",
+    "cframe": "-24.0816841, 4.79106617, -34.9187698, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "Kafka Transformed"
+  },
+  "58": {
+    "type": "UpgradeUnit",
+    "time": "365",
+    "money": "10000",
+    "cframe": "-24.0816841, 4.79106617, -34.9187698, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "Kafka Transformed"
+  },
+  "59": {
+    "type": "UpgradeUnit",
+    "time": "366",
+    "money": "12400",
+    "cframe": "-24.0816841, 4.79106617, -34.9187698, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "Kafka Transformed"
+  },
+  "60": {
+    "type": "UpgradeUnit",
+    "time": "367",
+    "money": "17400",
+    "cframe": "-24.0816841, 4.79106617, -34.9187698, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "Kafka Transformed"
+  },
+  "61": {
+    "type": "UpgradeUnit",
+    "time": "391",
+    "money": "21400",
+    "cframe": "-24.0816841, 4.79106617, -34.9187698, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "Kafka Transformed"
+  },
+  "62": {
+    "type": "UpgradeUnit",
+    "time": "408",
+    "money": "150000",
+    "cframe": "-24.0816841, 4.79106617, -34.9187698, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "Kafka Transformed"
+  },
+  "63": {
+    "type": "UpgradeUnit",
+    "time": "433",
+    "money": "200000",
+    "cframe": "-24.0816841, 4.79106617, -34.9187698, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+    "unit": "Kafka Transformed"
+  },
+  "Data": {
+    "Map": "Elemental Caverns",
+    "RecordMode": "Hybrid",
+    "Units": [
+      "EscanorGodly",
+      "Kira",
+      "Kafka Transformed",
+      "RengokuEvo",
+      "Itachi Edo",
+      "Yoo Jinho"
+    ]
+  }
+}
