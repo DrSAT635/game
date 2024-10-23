@@ -1,0 +1,1062 @@
+{
+  "1": {
+    "money": 500,
+    "type": "SpawnUnit",
+    "cframe": "26.5996418, 2.18358183, 12.2898645, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "2": {
+    "money": 500,
+    "type": "SpawnUnit",
+    "cframe": "-6.71661282, 2.18358183, 28.4587917, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "3": {
+    "money": 500,
+    "type": "SpawnUnit",
+    "cframe": "-28.5120792, 2.18358183, -2.50056863, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "4": {
+    "money": 500,
+    "type": "SpawnUnit",
+    "cframe": "-1.77062535, 2.18358183, -28.5086784, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "5": {
+    "money": 500,
+    "type": "SpawnUnit",
+    "cframe": "24.2228966, 2.18358231, -15.2599878, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "6": {
+    "money": 550,
+    "type": "SpawnUnit",
+    "cframe": "-67.5719147, 2.17850399, -57.3878784, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bloomer"
+  },
+  "7": {
+    "money": 550,
+    "type": "SpawnUnit",
+    "cframe": "-65.0643158, 2.17850399, -59.7126999, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bloomer"
+  },
+  "8": {
+    "money": 550,
+    "type": "SpawnUnit",
+    "cframe": "-62.66465, 2.17850447, -61.8545036, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bloomer"
+  },
+  "9": {
+    "money": 800,
+    "type": "SpawnUnit",
+    "cframe": "-62.8655472, 2.22515082, -57.2915001, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Pink Rockstar"
+  },
+  "10": {
+    "money": 1000,
+    "type": "UpgradeUnit",
+    "cframe": "-67.5719147, 2.17850399, -57.3878784, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bloomer"
+  },
+  "11": {
+    "money": 1000,
+    "type": "UpgradeUnit",
+    "cframe": "-65.0643158, 2.17850399, -59.7126999, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bloomer"
+  },
+  "12": {
+    "money": 1000,
+    "type": "UpgradeUnit",
+    "cframe": "-62.66465, 2.17850447, -61.8545036, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bloomer"
+  },
+  "13": {
+    "money": 950,
+    "type": "SpawnUnit",
+    "cframe": "30.4770355, 1.9884932, -0.00940170139, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bear King (Unlocked)"
+  },
+  "14": {
+    "money": 950,
+    "type": "SpawnUnit",
+    "cframe": "-32.420063, 1.9884932, 0.347051293, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bear King (Unlocked)"
+  },
+  "15": {
+    "money": 950,
+    "type": "SpawnUnit",
+    "cframe": "0.325907022, 1.98849368, 28.6214752, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bear King (Unlocked)"
+  },
+  "16": {
+    "money": 950,
+    "type": "SpawnUnit",
+    "cframe": "1.14526713, 1.98849368, -28.5576935, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bear King (Unlocked)"
+  },
+  "17": {
+    "money": 1700,
+    "type": "UpgradeUnit",
+    "cframe": "-67.5719147, 2.17850399, -57.3878784, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bloomer"
+  },
+  "18": {
+    "money": 950,
+    "type": "UpgradeUnit",
+    "cframe": "-28.5120792, 2.18358183, -2.50056863, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "19": {
+    "money": 950,
+    "type": "UpgradeUnit",
+    "cframe": "26.5996418, 2.18358183, 12.2898645, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "20": {
+    "money": 950,
+    "type": "UpgradeUnit",
+    "cframe": "-1.77062535, 2.18358183, -28.5086784, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "21": {
+    "money": 950,
+    "type": "UpgradeUnit",
+    "cframe": "-6.71661282, 2.18358183, 28.4587917, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "22": {
+    "money": 950,
+    "type": "UpgradeUnit",
+    "cframe": "24.2228966, 2.18358231, -15.2599878, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "23": {
+    "money": 1700,
+    "type": "UpgradeUnit",
+    "cframe": "-65.0643158, 2.17850399, -59.7126999, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bloomer"
+  },
+  "24": {
+    "money": 1700,
+    "type": "UpgradeUnit",
+    "cframe": "-62.66465, 2.17850447, -61.8545036, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bloomer"
+  },
+  "25": {
+    "money": 2500,
+    "type": "UpgradeUnit",
+    "cframe": "-62.66465, 2.17850447, -61.8545036, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bloomer"
+  },
+  "26": {
+    "money": 2500,
+    "type": "UpgradeUnit",
+    "cframe": "-65.0643158, 2.17850399, -59.7126999, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bloomer"
+  },
+  "27": {
+    "money": 2500,
+    "type": "UpgradeUnit",
+    "cframe": "-67.5719147, 2.17850399, -57.3878784, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bloomer"
+  },
+  "28": {
+    "money": 1500,
+    "type": "UpgradeUnit",
+    "cframe": "-62.8655472, 2.22515082, -57.2915001, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Pink Rockstar"
+  },
+  "29": {
+    "money": 1450,
+    "type": "UpgradeUnit",
+    "cframe": "30.4770355, 1.9884932, -0.00940170139, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bear King (Unlocked)"
+  },
+  "30": {
+    "money": 1450,
+    "type": "UpgradeUnit",
+    "cframe": "-32.420063, 1.9884932, 0.347051293, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bear King (Unlocked)"
+  },
+  "31": {
+    "money": 1450,
+    "type": "UpgradeUnit",
+    "cframe": "1.14526713, 1.98849368, -28.5576935, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bear King (Unlocked)"
+  },
+  "32": {
+    "money": 1450,
+    "type": "UpgradeUnit",
+    "cframe": "0.325907022, 1.98849368, 28.6214752, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bear King (Unlocked)"
+  },
+  "33": {
+    "money": 3000,
+    "type": "UpgradeUnit",
+    "cframe": "-62.66465, 2.17850447, -61.8545036, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bloomer"
+  },
+  "34": {
+    "money": 3000,
+    "type": "UpgradeUnit",
+    "cframe": "-65.0643158, 2.17850399, -59.7126999, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bloomer"
+  },
+  "35": {
+    "money": 2500,
+    "type": "UpgradeUnit",
+    "cframe": "-32.420063, 1.9884932, 0.347051293, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bear King (Unlocked)"
+  },
+  "36": {
+    "money": 2500,
+    "type": "UpgradeUnit",
+    "cframe": "30.4770355, 1.9884932, -0.00940170139, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bear King (Unlocked)"
+  },
+  "37": {
+    "money": 2500,
+    "type": "UpgradeUnit",
+    "cframe": "1.14526713, 1.98849368, -28.5576935, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bear King (Unlocked)"
+  },
+  "38": {
+    "money": 2500,
+    "type": "UpgradeUnit",
+    "cframe": "0.325907022, 1.98849368, 28.6214752, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bear King (Unlocked)"
+  },
+  "39": {
+    "money": 3000,
+    "type": "UpgradeUnit",
+    "cframe": "-67.5719147, 2.17850399, -57.3878784, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bloomer"
+  },
+  "40": {
+    "money": 3000,
+    "type": "UpgradeUnit",
+    "cframe": "-62.8655472, 2.22515082, -57.2915001, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Pink Rockstar"
+  },
+  "41": {
+    "money": 1200,
+    "type": "UpgradeUnit",
+    "cframe": "26.5996418, 2.18358183, 12.2898645, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "42": {
+    "money": 1200,
+    "type": "UpgradeUnit",
+    "cframe": "24.2228966, 2.18358231, -15.2599878, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "43": {
+    "money": 1200,
+    "type": "UpgradeUnit",
+    "cframe": "-6.71661282, 2.18358183, 28.4587917, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "44": {
+    "money": 1200,
+    "type": "UpgradeUnit",
+    "cframe": "-28.5120792, 2.18358183, -2.50056863, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "45": {
+    "money": 1200,
+    "type": "UpgradeUnit",
+    "cframe": "-1.77062535, 2.18358183, -28.5086784, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "46": {
+    "money": 4500,
+    "type": "UpgradeUnit",
+    "cframe": "-62.8655472, 2.22515082, -57.2915001, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Pink Rockstar"
+  },
+  "47": {
+    "money": 6500,
+    "type": "UpgradeUnit",
+    "cframe": "-62.8655472, 2.22515082, -57.2915001, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Pink Rockstar"
+  },
+  "48": {
+    "money": 7500,
+    "type": "UpgradeUnit",
+    "cframe": "-62.8655472, 2.22515082, -57.2915001, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Pink Rockstar"
+  },
+  "49": {
+    "money": 10000,
+    "type": "UpgradeUnit",
+    "cframe": "-62.8655472, 2.22515082, -57.2915001, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Pink Rockstar"
+  },
+  "50": {
+    "money": 1500,
+    "type": "UpgradeUnit",
+    "cframe": "-1.77062535, 2.18358183, -28.5086784, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "51": {
+    "money": 1500,
+    "type": "UpgradeUnit",
+    "cframe": "24.2228966, 2.18358231, -15.2599878, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "52": {
+    "money": 1500,
+    "type": "UpgradeUnit",
+    "cframe": "26.5996418, 2.18358183, 12.2898645, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "53": {
+    "money": 1500,
+    "type": "UpgradeUnit",
+    "cframe": "-6.71661282, 2.18358183, 28.4587917, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "54": {
+    "money": 1500,
+    "type": "UpgradeUnit",
+    "cframe": "-28.5120792, 2.18358183, -2.50056863, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "55": {
+    "money": 3100,
+    "type": "UpgradeUnit",
+    "cframe": "1.14526713, 1.98849368, -28.5576935, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bear King (Unlocked)"
+  },
+  "56": {
+    "money": 3100,
+    "type": "UpgradeUnit",
+    "cframe": "30.4770355, 1.9884932, -0.00940170139, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bear King (Unlocked)"
+  },
+  "57": {
+    "money": 3100,
+    "type": "UpgradeUnit",
+    "cframe": "0.325907022, 1.98849368, 28.6214752, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bear King (Unlocked)"
+  },
+  "58": {
+    "money": 3100,
+    "type": "UpgradeUnit",
+    "cframe": "-32.420063, 1.9884932, 0.347051293, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bear King (Unlocked)"
+  },
+  "59": {
+    "money": 3850,
+    "type": "UpgradeUnit",
+    "cframe": "1.14526713, 1.98849368, -28.5576935, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bear King (Unlocked)"
+  },
+  "60": {
+    "money": 3850,
+    "type": "UpgradeUnit",
+    "cframe": "30.4770355, 1.9884932, -0.00940170139, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bear King (Unlocked)"
+  },
+  "61": {
+    "money": 3850,
+    "type": "UpgradeUnit",
+    "cframe": "0.325907022, 1.98849368, 28.6214752, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bear King (Unlocked)"
+  },
+  "62": {
+    "money": 3850,
+    "type": "UpgradeUnit",
+    "cframe": "-32.420063, 1.9884932, 0.347051293, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bear King (Unlocked)"
+  },
+  "63": {
+    "money": 4450,
+    "type": "UpgradeUnit",
+    "cframe": "1.14526713, 1.98849368, -28.5576935, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bear King (Unlocked)"
+  },
+  "64": {
+    "money": 4450,
+    "type": "UpgradeUnit",
+    "cframe": "30.4770355, 1.9884932, -0.00940170139, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bear King (Unlocked)"
+  },
+  "65": {
+    "money": 4450,
+    "type": "UpgradeUnit",
+    "cframe": "0.325907022, 1.98849368, 28.6214752, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bear King (Unlocked)"
+  },
+  "66": {
+    "money": 4450,
+    "type": "UpgradeUnit",
+    "cframe": "-32.420063, 1.9884932, 0.347051293, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bear King (Unlocked)"
+  },
+  "67": {
+    "money": 2200,
+    "type": "UpgradeUnit",
+    "cframe": "-1.77062535, 2.18358183, -28.5086784, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "68": {
+    "money": 2200,
+    "type": "UpgradeUnit",
+    "cframe": "24.2228966, 2.18358231, -15.2599878, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "69": {
+    "money": 2200,
+    "type": "UpgradeUnit",
+    "cframe": "26.5996418, 2.18358183, 12.2898645, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "70": {
+    "money": 2200,
+    "type": "UpgradeUnit",
+    "cframe": "-6.71661282, 2.18358183, 28.4587917, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "71": {
+    "money": 2200,
+    "type": "UpgradeUnit",
+    "cframe": "-28.5120792, 2.18358183, -2.50056863, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "72": {
+    "money": 5500,
+    "type": "UpgradeUnit",
+    "cframe": "1.14526713, 1.98849368, -28.5576935, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bear King (Unlocked)"
+  },
+  "73": {
+    "money": 5500,
+    "type": "UpgradeUnit",
+    "cframe": "30.4770355, 1.9884932, -0.00940170139, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bear King (Unlocked)"
+  },
+  "74": {
+    "money": 5500,
+    "type": "UpgradeUnit",
+    "cframe": "0.325907022, 1.98849368, 28.6214752, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bear King (Unlocked)"
+  },
+  "75": {
+    "money": 5500,
+    "type": "UpgradeUnit",
+    "cframe": "-32.420063, 1.9884932, 0.347051293, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bear King (Unlocked)"
+  },
+  "76": {
+    "money": 6250,
+    "type": "UpgradeUnit",
+    "cframe": "1.14526713, 1.98849368, -28.5576935, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bear King (Unlocked)"
+  },
+  "77": {
+    "money": 6250,
+    "type": "UpgradeUnit",
+    "cframe": "30.4770355, 1.9884932, -0.00940170139, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bear King (Unlocked)"
+  },
+  "78": {
+    "money": 6250,
+    "type": "UpgradeUnit",
+    "cframe": "0.325907022, 1.98849368, 28.6214752, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bear King (Unlocked)"
+  },
+  "79": {
+    "money": 6250,
+    "type": "UpgradeUnit",
+    "cframe": "-32.420063, 1.9884932, 0.347051293, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bear King (Unlocked)"
+  },
+  "80": {
+    "money": 7300,
+    "type": "UpgradeUnit",
+    "cframe": "1.14526713, 1.98849368, -28.5576935, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bear King (Unlocked)"
+  },
+  "81": {
+    "money": 7300,
+    "type": "UpgradeUnit",
+    "cframe": "30.4770355, 1.9884932, -0.00940170139, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bear King (Unlocked)"
+  },
+  "82": {
+    "money": 7300,
+    "type": "UpgradeUnit",
+    "cframe": "0.325907022, 1.98849368, 28.6214752, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bear King (Unlocked)"
+  },
+  "83": {
+    "money": 7300,
+    "type": "UpgradeUnit",
+    "cframe": "-32.420063, 1.9884932, 0.347051293, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bear King (Unlocked)"
+  },
+  "84": {
+    "money": 8200,
+    "type": "UpgradeUnit",
+    "cframe": "1.14526713, 1.98849368, -28.5576935, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bear King (Unlocked)"
+  },
+  "85": {
+    "money": 8200,
+    "type": "UpgradeUnit",
+    "cframe": "30.4770355, 1.9884932, -0.00940170139, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bear King (Unlocked)"
+  },
+  "86": {
+    "money": 8200,
+    "type": "UpgradeUnit",
+    "cframe": "0.325907022, 1.98849368, 28.6214752, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bear King (Unlocked)"
+  },
+  "87": {
+    "money": 8200,
+    "type": "UpgradeUnit",
+    "cframe": "-32.420063, 1.9884932, 0.347051293, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bear King (Unlocked)"
+  },
+  "88": {
+    "money": 9000,
+    "type": "UpgradeUnit",
+    "cframe": "1.14526713, 1.98849368, -28.5576935, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bear King (Unlocked)"
+  },
+  "89": {
+    "money": 9000,
+    "type": "UpgradeUnit",
+    "cframe": "30.4770355, 1.9884932, -0.00940170139, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bear King (Unlocked)"
+  },
+  "90": {
+    "money": 9000,
+    "type": "UpgradeUnit",
+    "cframe": "0.325907022, 1.98849368, 28.6214752, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bear King (Unlocked)"
+  },
+  "91": {
+    "money": 9000,
+    "type": "UpgradeUnit",
+    "cframe": "-32.420063, 1.9884932, 0.347051293, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bear King (Unlocked)"
+  },
+  "92": {
+    "money": 10500,
+    "type": "UpgradeUnit",
+    "cframe": "1.14526713, 1.98849368, -28.5576935, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bear King (Unlocked)"
+  },
+  "93": {
+    "money": 10500,
+    "type": "UpgradeUnit",
+    "cframe": "30.4770355, 1.9884932, -0.00940170139, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bear King (Unlocked)"
+  },
+  "94": {
+    "money": 10500,
+    "type": "UpgradeUnit",
+    "cframe": "0.325907022, 1.98849368, 28.6214752, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bear King (Unlocked)"
+  },
+  "95": {
+    "money": 10500,
+    "type": "UpgradeUnit",
+    "cframe": "-32.420063, 1.9884932, 0.347051293, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Bear King (Unlocked)"
+  },
+  "96": {
+    "money": 3000,
+    "type": "UpgradeUnit",
+    "cframe": "-1.77062535, 2.18358183, -28.5086784, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "97": {
+    "money": 3000,
+    "type": "UpgradeUnit",
+    "cframe": "24.2228966, 2.18358231, -15.2599878, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "98": {
+    "money": 3000,
+    "type": "UpgradeUnit",
+    "cframe": "26.5996418, 2.18358183, 12.2898645, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "99": {
+    "money": 3000,
+    "type": "UpgradeUnit",
+    "cframe": "-6.71661282, 2.18358183, 28.4587917, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "100": {
+    "money": 3000,
+    "type": "UpgradeUnit",
+    "cframe": "-28.5120792, 2.18358183, -2.50056863, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "101": {
+    "money": 4100,
+    "type": "UpgradeUnit",
+    "cframe": "-1.77062535, 2.18358183, -28.5086784, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "102": {
+    "money": 4100,
+    "type": "UpgradeUnit",
+    "cframe": "24.2228966, 2.18358231, -15.2599878, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "103": {
+    "money": 4100,
+    "type": "UpgradeUnit",
+    "cframe": "26.5996418, 2.18358183, 12.2898645, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "104": {
+    "money": 4100,
+    "type": "UpgradeUnit",
+    "cframe": "-6.71661282, 2.18358183, 28.4587917, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "105": {
+    "money": 4100,
+    "type": "UpgradeUnit",
+    "cframe": "-28.5120792, 2.18358183, -2.50056863, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "106": {
+    "money": 4800,
+    "type": "UpgradeUnit",
+    "cframe": "-1.77062535, 2.18358183, -28.5086784, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "107": {
+    "money": 4800,
+    "type": "UpgradeUnit",
+    "cframe": "24.2228966, 2.18358231, -15.2599878, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "108": {
+    "money": 4800,
+    "type": "UpgradeUnit",
+    "cframe": "26.5996418, 2.18358183, 12.2898645, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "109": {
+    "money": 4800,
+    "type": "UpgradeUnit",
+    "cframe": "-6.71661282, 2.18358183, 28.4587917, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "110": {
+    "money": 4800,
+    "type": "UpgradeUnit",
+    "cframe": "-28.5120792, 2.18358183, -2.50056863, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "111": {
+    "money": 5300,
+    "type": "UpgradeUnit",
+    "cframe": "-1.77062535, 2.18358183, -28.5086784, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "112": {
+    "money": 5300,
+    "type": "UpgradeUnit",
+    "cframe": "24.2228966, 2.18358231, -15.2599878, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "113": {
+    "money": 5300,
+    "type": "UpgradeUnit",
+    "cframe": "26.5996418, 2.18358183, 12.2898645, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "114": {
+    "money": 5300,
+    "type": "UpgradeUnit",
+    "cframe": "-6.71661282, 2.18358183, 28.4587917, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "115": {
+    "money": 5300,
+    "type": "UpgradeUnit",
+    "cframe": "-28.5120792, 2.18358183, -2.50056863, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "116": {
+    "money": 6000,
+    "type": "UpgradeUnit",
+    "cframe": "-1.77062535, 2.18358183, -28.5086784, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "117": {
+    "money": 6000,
+    "type": "UpgradeUnit",
+    "cframe": "24.2228966, 2.18358231, -15.2599878, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "118": {
+    "money": 6000,
+    "type": "UpgradeUnit",
+    "cframe": "26.5996418, 2.18358183, 12.2898645, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "119": {
+    "money": 6000,
+    "type": "UpgradeUnit",
+    "cframe": "-6.71661282, 2.18358183, 28.4587917, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "120": {
+    "money": 6000,
+    "type": "UpgradeUnit",
+    "cframe": "-28.5120792, 2.18358183, -2.50056863, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "121": {
+    "money": 7500,
+    "type": "UpgradeUnit",
+    "cframe": "-1.77062535, 2.18358183, -28.5086784, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "122": {
+    "money": 7500,
+    "type": "UpgradeUnit",
+    "cframe": "24.2228966, 2.18358231, -15.2599878, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "123": {
+    "money": 7500,
+    "type": "UpgradeUnit",
+    "cframe": "26.5996418, 2.18358183, 12.2898645, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "124": {
+    "money": 7500,
+    "type": "UpgradeUnit",
+    "cframe": "-6.71661282, 2.18358183, 28.4587917, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "125": {
+    "money": 7500,
+    "type": "UpgradeUnit",
+    "cframe": "-28.5120792, 2.18358183, -2.50056863, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "126": {
+    "money": 9000,
+    "type": "UpgradeUnit",
+    "cframe": "-1.77062535, 2.18358183, -28.5086784, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "127": {
+    "type": "SellUnit",
+    "cframe": "-62.8655472, 2.22515082, -57.2915001, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Pink Rockstar"
+  },
+  "128": {
+    "money": 9000,
+    "type": "UpgradeUnit",
+    "cframe": "24.2228966, 2.18358231, -15.2599878, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "129": {
+    "money": 9000,
+    "type": "UpgradeUnit",
+    "cframe": "26.5996418, 2.18358183, 12.2898645, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "130": {
+    "money": 9000,
+    "type": "UpgradeUnit",
+    "cframe": "-6.71661282, 2.18358183, 28.4587917, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "131": {
+    "money": 9000,
+    "type": "UpgradeUnit",
+    "cframe": "-28.5120792, 2.18358183, -2.50056863, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Spirit King"
+  },
+  "132": {
+    "money": 1500,
+    "type": "SpawnUnit",
+    "cframe": "-22.0694942, 2.24018407, -39.8811722, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Demon King"
+  },
+  "133": {
+    "money": 1500,
+    "type": "SpawnUnit",
+    "cframe": "35.6099854, 2.24018407, 0.738844872, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Demon King"
+  },
+  "134": {
+    "money": 1500,
+    "type": "SpawnUnit",
+    "cframe": "-38.0719719, 2.24018407, 17.560236, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Demon King"
+  },
+  "135": {
+    "money": 1500,
+    "type": "SpawnUnit",
+    "cframe": "10.9145889, 2.24018407, 38.6122322, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Demon King"
+  },
+  "136": {
+    "money": 2500,
+    "type": "UpgradeUnit",
+    "cframe": "-38.0719719, 2.24018407, 17.560236, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Demon King"
+  },
+  "137": {
+    "money": 2500,
+    "type": "UpgradeUnit",
+    "cframe": "35.6099854, 2.24018407, 0.738844872, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Demon King"
+  },
+  "138": {
+    "money": 3500,
+    "type": "UpgradeUnit",
+    "cframe": "35.6099854, 2.24018407, 0.738844872, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Demon King"
+  },
+  "139": {
+    "money": 3500,
+    "type": "UpgradeUnit",
+    "cframe": "-38.0719719, 2.24018407, 17.560236, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Demon King"
+  },
+  "140": {
+    "money": 2500,
+    "type": "UpgradeUnit",
+    "cframe": "10.9145889, 2.24018407, 38.6122322, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Demon King"
+  },
+  "141": {
+    "money": 3500,
+    "type": "UpgradeUnit",
+    "cframe": "10.9145889, 2.24018407, 38.6122322, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Demon King"
+  },
+  "142": {
+    "money": 2500,
+    "type": "UpgradeUnit",
+    "cframe": "-22.0694942, 2.24018407, -39.8811722, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Demon King"
+  },
+  "143": {
+    "money": 3500,
+    "type": "UpgradeUnit",
+    "cframe": "-22.0694942, 2.24018407, -39.8811722, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Demon King"
+  },
+  "144": {
+    "money": 4200,
+    "type": "UpgradeUnit",
+    "cframe": "-38.0719719, 2.24018407, 17.560236, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Demon King"
+  },
+  "145": {
+    "money": 4800,
+    "type": "UpgradeUnit",
+    "cframe": "-38.0719719, 2.24018407, 17.560236, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Demon King"
+  },
+  "146": {
+    "money": 4200,
+    "type": "UpgradeUnit",
+    "cframe": "10.9145889, 2.24018407, 38.6122322, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Demon King"
+  },
+  "147": {
+    "money": 4800,
+    "type": "UpgradeUnit",
+    "cframe": "10.9145889, 2.24018407, 38.6122322, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Demon King"
+  },
+  "148": {
+    "money": 4200,
+    "type": "UpgradeUnit",
+    "cframe": "35.6099854, 2.24018407, 0.738844872, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Demon King"
+  },
+  "149": {
+    "money": 4800,
+    "type": "UpgradeUnit",
+    "cframe": "35.6099854, 2.24018407, 0.738844872, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Demon King"
+  },
+  "150": {
+    "money": 4200,
+    "type": "UpgradeUnit",
+    "cframe": "-22.0694942, 2.24018407, -39.8811722, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Demon King"
+  },
+  "151": {
+    "money": 4800,
+    "type": "UpgradeUnit",
+    "cframe": "-22.0694942, 2.24018407, -39.8811722, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Demon King"
+  },
+  "152": {
+    "money": 5500,
+    "type": "UpgradeUnit",
+    "cframe": "35.6099854, 2.24018407, 0.738844872, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Demon King"
+  },
+  "153": {
+    "money": 5500,
+    "type": "UpgradeUnit",
+    "cframe": "10.9145889, 2.24018407, 38.6122322, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Demon King"
+  },
+  "154": {
+    "money": 5500,
+    "type": "UpgradeUnit",
+    "cframe": "-22.0694942, 2.24018407, -39.8811722, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Demon King"
+  },
+  "155": {
+    "money": 5500,
+    "type": "UpgradeUnit",
+    "cframe": "-38.0719719, 2.24018407, 17.560236, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Demon King"
+  },
+  "156": {
+    "money": 6500,
+    "type": "UpgradeUnit",
+    "cframe": "35.6099854, 2.24018407, 0.738844872, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Demon King"
+  },
+  "157": {
+    "money": 6500,
+    "type": "UpgradeUnit",
+    "cframe": "10.9145889, 2.24018407, 38.6122322, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Demon King"
+  },
+  "158": {
+    "money": 6500,
+    "type": "UpgradeUnit",
+    "cframe": "-22.0694942, 2.24018407, -39.8811722, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Demon King"
+  },
+  "159": {
+    "money": 6500,
+    "type": "UpgradeUnit",
+    "cframe": "-38.0719719, 2.24018407, 17.560236, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Demon King"
+  },
+  "160": {
+    "money": 7200,
+    "type": "UpgradeUnit",
+    "cframe": "35.6099854, 2.24018407, 0.738844872, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Demon King"
+  },
+  "161": {
+    "money": 7200,
+    "type": "UpgradeUnit",
+    "cframe": "10.9145889, 2.24018407, 38.6122322, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Demon King"
+  },
+  "162": {
+    "money": 7200,
+    "type": "UpgradeUnit",
+    "cframe": "-22.0694942, 2.24018407, -39.8811722, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Demon King"
+  },
+  "163": {
+    "money": 7200,
+    "type": "UpgradeUnit",
+    "cframe": "-38.0719719, 2.24018407, 17.560236, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Demon King"
+  },
+  "164": {
+    "money": 7800,
+    "type": "UpgradeUnit",
+    "cframe": "35.6099854, 2.24018407, 0.738844872, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Demon King"
+  },
+  "165": {
+    "money": 7800,
+    "type": "UpgradeUnit",
+    "cframe": "10.9145889, 2.24018407, 38.6122322, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Demon King"
+  },
+  "166": {
+    "money": 7800,
+    "type": "UpgradeUnit",
+    "cframe": "-22.0694942, 2.24018407, -39.8811722, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Demon King"
+  },
+  "168": {
+    "money": 7800,
+    "type": "UpgradeUnit",
+    "cframe": "-38.0719719, 2.24018407, 17.560236, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Demon King"
+  },
+  "169": {
+    "money": 8500,
+    "type": "UpgradeUnit",
+    "cframe": "35.6099854, 2.24018407, 0.738844872, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Demon King"
+  },
+  "170": {
+    "money": 8500,
+    "type": "UpgradeUnit",
+    "cframe": "10.9145889, 2.24018407, 38.6122322, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Demon King"
+  },
+  "171": {
+    "money": 8500,
+    "type": "UpgradeUnit",
+    "cframe": "-22.0694942, 2.24018407, -39.8811722, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Demon King"
+  },
+  "172": {
+    "money": 8500,
+    "type": "UpgradeUnit",
+    "cframe": "-38.0719719, 2.24018407, 17.560236, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Demon King"
+  },
+  "173": {
+    "money": 10000,
+    "type": "UpgradeUnit",
+    "cframe": "35.6099854, 2.24018407, 0.738844872, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Demon King"
+  },
+  "174": {
+    "money": 10000,
+    "type": "UpgradeUnit",
+    "cframe": "10.9145889, 2.24018407, 38.6122322, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Demon King"
+  },
+  "175": {
+    "money": 10000,
+    "type": "UpgradeUnit",
+    "cframe": "-22.0694942, 2.24018407, -39.8811722, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Demon King"
+  },
+  "176": {
+    "money": 10000,
+    "type": "UpgradeUnit",
+    "cframe": "-38.0719719, 2.24018407, 17.560236, 0, 0, -1, 0, 1, 0, 1, 0, 0",
+    "unit": "Demon King"
+  },
+   "Data": {
+    "Units": [
+      "Demon King",
+      "Pink Rockstar",
+      "Bear King (Unlocked)",
+      "Bloomer",
+      "Spirit King"
+    ],
+    "RecordMode": "Money"
+	
+  }
+}
